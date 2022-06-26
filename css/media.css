@@ -1,6 +1,7 @@
 @media screen and (max-width:1020px){
     .container {}
     .main_nav .menu_wrap {display: none;}
+    .m_nav{display: block;}
 }
 
 @media screen and (max-width:700px){

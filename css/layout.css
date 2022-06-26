@@ -34,6 +34,7 @@ a{cursor: pointer;}
 .scroll_sns ul li {padding:  0 15px;}
 .scroll_sns ul li img{width: 24px;}
 
+.m_nav {display: none;}
 .m_nav .m_hamberger{position: relative; width: 40px; height: 4px;  background: #fff; top: 50%;  left: 50%; transform: translate(-50%,-50%);  transition: width .3s ease; cursor: pointer;}
 .m_nav .m_hamberger::after, .m_nav .m_hamberger::before {content: ""; position: absolute; width: 40px; height: 4px;  background: #fff; transition: transform .3s ease;}
 .m_nav .m_hamberger::before {    top: 50%; left: 50%; transform: translate(-50%,calc(-50% + 10px));}
